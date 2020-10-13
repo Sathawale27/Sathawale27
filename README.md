@@ -8,3 +8,5 @@ LinkedIn: https://in.linkedin.com/in/sarvesh-athawale-b9069098
 
 Also, you can follow my blogs at:
 Medium: https://medium.com/@sathawale27
+
+![States on GitHub](https://github-readme-stats.vercel.app/api?username=Sathawale27)
