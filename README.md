@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sarvesh Athawale, I'm a Senior Engineer at Xento Systems, also love building cool things that solve hard problems. In ♥ with Kotlin.
+My name is Sarvesh Athawale, I love building cool things that solve hard problems. In ♥ with Kotlin.
 
 You can connect me on:
 Twitter: https://twitter.com/sathawale27
